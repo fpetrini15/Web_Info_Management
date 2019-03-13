@@ -1,0 +1,2 @@
+# Web_Info_Management
+This repository contains my COEN 169 Web Information Management Project. Essentially, this project mimicked the Netflix Prize competition in which Netflix challenged teams to beat their recommendation algorithm. My project utilizes several methods to calculate vector similarity including cosine similarity, Pearson correlation, and item-based cosine similarity. Additionally it has the functionality to incorporate Inverse User Frequency and Case modification for improved results. The source code is still a little messy and work is still ongoing!
